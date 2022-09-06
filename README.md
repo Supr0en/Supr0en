@@ -10,6 +10,6 @@ express & ejs tehtävä
 <br>
 https://github.com/Supr0en/expressEjs
 
-sakila (ejs, css, javascript, mariadb, express)
+sakila (ejs, css, javascript, mariadb ja express)
 <br>
 https://github.com/Supr0en/sakila
