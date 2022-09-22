@@ -1,6 +1,6 @@
-## Tämä on GitHub protfolio.
+## Tämä on GitHub portfolio.
 
-Olen tieto- ja viestintätekniikan opsikelija erikoistun web-ohjelmointiin.
+Olen tieto- ja Viestintätekniikan opiskelija erikoistun Web-ohjelmointiin.
 
 portfolio (HTML & CSS kurssi)
 <br>
