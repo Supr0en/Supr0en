@@ -1,4 +1,4 @@
-## Tämä on Minun GitHub etusivu.
+## Tämä on GitHub protfolio.
 
 Olen tieto- ja viestintätekniikan opsikelija erikoistun web-ohjelmointiin.
 
