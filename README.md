@@ -1,4 +1,4 @@
-## Terve, minun nimeni on Erik Ruotsalainen (@Supr0en)
+## Tämä on Minun GitHub etusivu.
 
 Olen tieto- ja viestintätekniikan opsikelija erikoistun web-ohjelmointiin.
 
