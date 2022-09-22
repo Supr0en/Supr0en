@@ -1,4 +1,4 @@
-### Terve, minun nimeni on Erik Ruotsalainen (@Supr0en)
+#### Terve, minun nimeni on Erik Ruotsalainen (@Supr0en)
 
 Olen tieto- ja viestintätekniikan opsikelija erikoistun web-ohjelmointiin.
 
