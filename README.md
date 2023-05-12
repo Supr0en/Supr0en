@@ -1,4 +1,4 @@
-## Tämä on GitHub portfolio.
+## Tämä on minun GitHub portfolio.
 
 Olen tieto- ja Viestintätekniikan opiskelija erikoistun Web-ohjelmointiin.
 
