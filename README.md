@@ -2,7 +2,11 @@
 
 Olen tieto- ja Viestintätekniikan opiskelija erikoistun Web-ohjelmointiin.
 
-portfolio (HTML & CSS kurssi)
+MyPortfolio page
+<br>
+https://supr0en.github.io/MyPortfolio/
+
+portfolio school (HTML & CSS kurssi)
 <br>
 https://github.com/Supr0en/portfolio
 
