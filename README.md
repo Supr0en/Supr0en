@@ -1,6 +1,6 @@
-## Tämä on minun GitHub portfolio.
+## This is my github profile!!
 
-Olen tieto- ja Viestintätekniikan opiskelija erikoistun Web-ohjelmointiin.
+I am Software developpers from Finland.
 
 MyPortfolio page
 <br>
