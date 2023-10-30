@@ -1,19 +1,38 @@
-## This is my github profile!!
+## **Welcome to my Github Profile** 👋
 
-I am Software developpers from Finland.
 
-MyPortfolio page
-<br>
-https://supr0en.github.io/MyPortfolio/
+I'm a Software Developer based in Vantaa, Finland. I'm passionate about Programming. Here you'll find some of the projects I've been working on. Feel free to explore or just say hi!
 
-portfolio school (HTML & CSS kurssi)
-<br>
-https://github.com/Supr0en/portfolio
+- 📅 I was born in 30 December 2004, Currently i am 18 Years old.
+- 📫 How to reach me: erik.ruotsalainen1@gmail.com
+- 🎓 Education: information and communication technology from Business College Helsinki. 
 
-express & ejs tehtävä
-<br>
-https://github.com/Supr0en/expressEjs
+### ⚙️ Technologies & Tools
 
-sakila (ejs, css, javascript, mariadb ja express)
-<br>
-https://github.com/Supr0en/sakila
+Here are some of the technologies and tools I'm familiar with:
+
+- JavaScript/TypeScript
+- HTML & CSS
+- React/React Native
+- SQL & noSQL
+- NodeJS, ExpressJS & ejs
+- Tailwind
+- I am interested on learning more like cloud services.
+
+### 🚀 Projects
+
+Check out some of the projects I've been working on:
+
+- [MyPortfolio page](https://supr0en.github.io/MyPortfolio/) - My Portfolio
+- [sakila](https://github.com/Supr0en/sakila) - Sakila fictional movie rental online pages that we did in school using following languages (ejs, css, javascript, mariadb ja express).
+
+
+### 📬 Let's Connect
+
+You can find me on the web:
+
+- [LinkedIn](https://www.linkedin.com/in/erikruotsalainen/)
+- [Twitter](https://twitter.com/Supr0en)
+- [Email](mailto:erik.ruotsalainen1@gmail.com)
+
+Feel free to reach out if you have any questions or just want to chat!
