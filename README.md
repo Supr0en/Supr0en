@@ -25,7 +25,9 @@ Check out some of the projects I've been working on:
 
 - [MyPortfolio page](https://supr0en.github.io/MyPortfolio/) - My Portfolio
 - [sakila](https://github.com/Supr0en/sakila) - Sakila fictional movie rental online pages that we did in school using following languages (ejs, css, javascript, mariadb ja express).
+- [Betterinput extension](https://github.com/Supr0en/Better-Input-extension) - Extension that lets you add "", '', (), {}, [] around text without losing text.
 
+More Project bellow README.MD
 
 ### 📬 Let's Connect
 
