@@ -3,7 +3,7 @@
 
 I'm a Software Developer based in Vantaa, Finland. I'm passionate about Programming. Here you'll find some of the projects I've been working on. Feel free to explore or just say hi!
 
-- 📅 I was born in 30 December 2004, Currently i am 18 Years old.
+- 📅 I was born in 30 December 2004, Currently i am 19 Years old.
 - 📫 How to reach me: erik.ruotsalainen1@gmail.com
 - 🎓 Education: information and communication technology from Business College Helsinki. 
 
