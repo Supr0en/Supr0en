@@ -3,7 +3,7 @@
 
 I'm a Software Developer based in Vantaa, Finland. I'm passionate about Programming. Here you'll find some of the projects I've been working on. Feel free to explore or just say hi!
 
-- 📅 I was born in 30 December 2004, Currently i am 20 Years old.
+- 📅 I was born in 30 December 2004.
 - 📫 How to reach me: erik.ruotsalainen1@gmail.com
 - 🎓 Education: Graduated information and communication technology from Business College Helsinki + student at Haaga-Helia University of Applied Sciences.
 
@@ -19,6 +19,7 @@ Here are some of the technologies and tools I'm familiar with:
 - Git/Github
 - Tailwind
 - Java
+- C# / .net (Minimal experience, few projects on works.)
 - I am interested on learning more like cloud services.
 
 ### 🚀 Projects
