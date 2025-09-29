@@ -18,9 +18,9 @@ Here are some of the technologies and tools I'm familiar with:
 - NodeJS, ExpressJS & ejs
 - Git/Github
 - Tailwind
-- Java
+- Java/Spring boot
 - C# / .net (Minimal experience, few projects on works.)
-- I am interested on learning more like cloud services.
+- I am interested on learning about cloud services.
 
 ### 🚀 Projects
 
