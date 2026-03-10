@@ -26,7 +26,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 Check out some of the projects I've been working on:
 
-- [Portfolio page](erikruotsalainen.vercel.app) - Portfolio
+- [Portfolio page](https://erikruotsalainen.vercel.app) - Portfolio
 - [sakila](https://github.com/Supr0en/sakila) - Sakila fictional online movie rental place, made with following languages (ejs, css, javascript, mariadb ja express).
 - [Better input extension](https://github.com/Supr0en/Better-Input-extension) - Extension that lets you add "", '', (), {}, [] around text without losing text.
 
